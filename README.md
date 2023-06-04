@@ -1,2 +1,2 @@
 # Kitaev_Java
- для изучения Java
+  for Java learning
