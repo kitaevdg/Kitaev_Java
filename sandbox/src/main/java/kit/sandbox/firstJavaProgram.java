@@ -1,3 +1,5 @@
+package kit.sandbox;
+
 public class firstJavaProgram {
 
 	public static void main(String[] args) {
