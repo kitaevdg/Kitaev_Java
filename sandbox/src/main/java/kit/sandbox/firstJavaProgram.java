@@ -11,6 +11,6 @@ public class firstJavaProgram {
 		System.out.println((5.2 + 1.8) * 7);
 
 		System.out.println("7" + "7");
-
+		System.out.println("7" + 7);
 	}
 }
